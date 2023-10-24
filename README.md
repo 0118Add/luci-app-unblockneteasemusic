@@ -55,7 +55,7 @@ IPSet 劫持方式指导：[恩山 692049#125 楼](https://www.right.com.cn/foru
 Hosts劫持方式指导：[UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) [云音乐安卓又搞事啦](https://jixun.moe/post/netease-android-hosts-bypass/)<br/>
 核心程序版本检测方法指导：[vernesong](https://github.com/vernesong)
 
-### 协议
+### 协议 
 本项目使用 [GPL-3.0-only](https://spdx.org/licenses/GPL-3.0-only.html) 协议授权<br/>
 在遵循此协议的前提下，你可以自由修改和分发
 
